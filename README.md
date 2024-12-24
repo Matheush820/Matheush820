@@ -1,5 +1,8 @@
-# 💫 About Me:
-👋 Hi there! I'm Matheus!<br>🎓 Aspiring Software Developer from São Caetano, Brazil.<br>📚 Currently pursuing a degree in Analysis and Systems Development at Uninassau.<br>💻 Passionate about Back-End Development and exploring the potential of C# and .NET.<br><br>🚀 Technologies & Skills:<br>Programming Languages: JavaScript, C#<br>Front-End: HTML5, CSS3, JavaScript, React<br>Back-End: Node.js, .NET Core, Express<br>Database: SQLServer, MySQL<br>Tools & Frameworks: Docker, Jest, Swagger<br>Design: Figma<br>Languages: Portuguese (Fluent), English (Intermediate), Spanish (Basic)<br>🌟 Current Projects:<br>SalaFácil: A room reservation system for educational institutions.<br>Personal Portfolio: Building an interactive, modern portfolio to showcase my work.<br>🏆 Achievements & Interests:<br>Collaborated on a Medical Appointment Management App (UI design in Figma).<br>Developed a Landing Page to refine HTML and CSS skills.<br>Active participant in team-based projects focused on societal tech education.<br>🌍 Let's Connect:<br>LinkedIn<br>GitHub<br>WhatsApp<br>Email
+💫 About Me:
+
+Hi, I'm Matheus! I'm a Software Developer from São Caetano, Brazil, currently studying Analysis and Systems Development at Uninassau. I'm passionate about back-end development and excited to explore the world of C# and .NET.
+
+I'm always working on new projects to improve my skills and contribute to tech education. Right now, I'm building a room reservation system for educational institutions and creating a modern, interactive portfolio to showcase my work.
 
 
 ## 🌐 Socials:
