@@ -5,18 +5,17 @@
 </p>
 
 <p align="center">
-  <i>Desenvolvedor focado em <b>Back-End com C# e .NET</b>, construindo sistemas com propósito e boas práticas. Atualmente desenvolvendo soluções para organização pessoal e finanças.</i>
+  <i>Desenvolvedor focado em <b>Back-End com C# e .NET</b>, construindo sistemas com propósito e aplicando boas práticas. Atualmente desenvolvendo soluções voltadas para organização pessoal e gestão financeira.</i>
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-- 🧱 Foco em desenvolvimento Back-End com **C#, .NET, ASP.NET Core e SQL Server**
-- 🔐 Estudando **JWT, Identity, arquitetura limpa e testes automatizados**
-- 💼 Trabalhando em projetos como **RotinaFlex** (rotina para TDAH) e **Orcan** (finanças pessoais)
-- 📈 Buscando oportunidade como **Desenvolvedor Back-End Júnior**
-- 🧠 Valorizo aprendizado contínuo, código limpo e soluções com impacto real
+- 🧱 Experiência prática com **C#, .NET, ASP.NET Core, Entity Framework e SQL Server**
+- 💼 Desenvolvendo projetos como **RotinaFlex** (rotina para TDAH) e **Orcan** (finanças pessoais)
+- 🎯 Aplicando arquitetura limpa, CQRS, validações com FluentValidation e integração com banco de dados
+- 📌 Em busca da primeira oportunidade profissional para contribuir e crescer junto a um time de desenvolvimento
 
 ---
 
@@ -51,8 +50,8 @@
   Sistema de finanças pessoais com alertas inteligentes e dashboards visuais.  
   *Stack:* C#, ASP.NET Core, Blazor, SQL Server
 
-- 🏫 **[Room Reservation System](https://github.com/Matheush820/projeto-reserva-salas)**  
-  Sistema web para agendamento e gerenciamento de salas em instituições de ensino.  
+- 🏫 **[MobileProject](https://github.com/Matheush820/MobileProject)**  
+  Sistema de reservas e gerenciamento de salas para instituições de ensino.  
   *Stack:* C#, ASP.NET Core, EF Core, SQL Server
 
 ---
